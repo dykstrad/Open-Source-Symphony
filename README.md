@@ -25,8 +25,8 @@ You can read the [License here](LICENSE). However, the gist of it is this:
 - Anyone can use, change, perform, this piece at will
 
 Although the license does not require it, it would be great if performances
-were recorded in the PERFORMANCES.md file along with Who, Date/Time, Place 
-and Version of the piece.
+were recorded in the PERFORMANCES.md file along with Who performed it, Date/Time, 
+Place and Version of the piece.
 
 # Abuses
 Any check in that is deemed to be malicious or an intentional distruction
