@@ -12,7 +12,11 @@ The file is formatted as a MusicXML file. This was chosen to allow a wide range 
 2. Checkout the Open-Source-Symphony project
 3. Import it into a MusicXML friendly composition environment (Finale, Sibilius, etc.)
 4. Compose Away
-5. Check in your changes and push the changes to the repository
+5. Export the piece to MusicXML file
+6. Check in your changes and push the changes to the repository
+
+Checkins can only consist of a single MusicXML file. Any checkins with extra files
+will be not included.
 
 # Forking
 If at any point in time you would like to pull the piece in a vastly
