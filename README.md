@@ -9,11 +9,12 @@ The file is formatted as a MusicXML file. This was chosen to allow a wide range 
 
 # How To Be Involved
 1. Download a GitHub client onto your machine
-2. Clone the Open-Source-Symphony project
+2. Fork the master branch of the Open-Source-Symphony project
 3. Import the MusicXML file into a MusicXML friendly composition environment (Finale, Sibilius, etc.)
 4. Compose Away
 5. Export the piece to MusicXML file
-6. Commit your changes and sync (create a pull request) the changes to the repository
+6. Commit your changes and sync the changes to your forked repository
+7. Create a pull request back to the master (either through the GitHub app, or on the GitHub website)
 
 Commits can only consist of a single MusicXML file and the readme files already existing in the repository. Any commits with new files will be not included.
 
